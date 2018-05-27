@@ -1,4 +1,4 @@
-package com.countryflags.model;
+package com.teamtreehouse.countryflags.model;
 
 import java.util.List;
 

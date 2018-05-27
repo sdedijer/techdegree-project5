@@ -1,4 +1,4 @@
-package com.countryflags;
+package com.teamtreehouse.countryflags;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

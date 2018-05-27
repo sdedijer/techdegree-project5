@@ -1,10 +1,9 @@
-package com.countryflags.data;
+package com.teamtreehouse.countryflags.data;
 
 
-import com.countryflags.model.*;
+import com.teamtreehouse.countryflags.model.Country;
 import org.springframework.stereotype.Component;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;

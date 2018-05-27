@@ -1,7 +1,7 @@
-package com.countryflags.controller;
+package com.teamtreehouse.countryflags.controller;
 
-import com.countryflags.data.*;
-import com.countryflags.model.Country;
+import com.teamtreehouse.countryflags.model.Country;
+import com.teamtreehouse.countryflags.data.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
